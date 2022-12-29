@@ -8,7 +8,7 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameKjamm&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjamm&show_icons=true&theme=radical)
 
 안녕하세요! 데이터 엔지니어가 꿈인 20살 대학생입니다.<br>
 
