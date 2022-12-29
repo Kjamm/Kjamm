@@ -4,11 +4,11 @@
 
 	
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=oMFDOo&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=header&text=Kjamm&fontSize=80)
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oMFDOo&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?usernameKjamm&show_icons=true&theme=radical)
 
 안녕하세요! 데이터 엔지니어가 꿈인 20살 대학생입니다.<br>
 
