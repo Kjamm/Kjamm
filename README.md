@@ -6,6 +6,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjamm&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjamm)](https://github.com/anuraghazra/github-readme-stats)
+
 안녕하세요! 데이터 엔지니어가 꿈인 20살 대학생 김재민입니다.<br>
 
 여러가지 건드려가며 공부하고 있지만,<br>
