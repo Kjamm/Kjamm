@@ -1,5 +1,5 @@
 
-
+<div align="center">
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjamm&show_icons=true&theme=radical)
@@ -25,3 +25,4 @@ E-mail : jaemin@o.cnu.ac.kr
 <hr>
 
 <br>
+<div>
