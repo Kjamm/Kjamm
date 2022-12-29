@@ -1,7 +1,5 @@
 
 
-<div align="center">
-
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kjamm&show_icons=true&theme=radical)
