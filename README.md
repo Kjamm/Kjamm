@@ -6,13 +6,14 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kjamm&theme=radical&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/><br>
 	
-안녕하세요!👐<br>
+Hello!🖐 I'm Kim Jae-min, a 21-year-old college student<br> 
+	
+who dreams of becoming a data engineer.<br> 
+	
+Currently, I'm focusing on studying AWS VPN,<br> 
+	
+and I'm always willing to learn.<br>
 
-풀스택 개발자가 꿈인 21살 대학생 김재민입니다.<br>
-
-끈임없이 배우며 나아가겠습니다.<br>
-
-현재는 AWS VPN 에 관한 공부에 집중하고 있습니다.<br>
 
 E-mail : jaemin@o.cnu.ac.kr
 
