@@ -6,7 +6,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kjamm&theme=radical&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/><br>
 	
-Hello!🖐 I'm Kim Jae-min, a 21-year-old college student<br> 
+Hello!🖐 I'm Jae-min KIM, a 21-year-old college student<br> 
 	
 who dreams of becoming a data engineer.<br> 
 	
