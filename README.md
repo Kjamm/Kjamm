@@ -8,7 +8,7 @@ Hello!🖐 I'm Jae-min KIM, a 22-year-old college student<br>
 	
 who dreams of becoming a AI engineer.<br> 
 	
-Currently, I'm focusing on studying AWS VPN,<br> 
+Currently, I'm focusing on studying Deep Learning,<br> 
 	
 and I'm always willing to learn.<br>
 
