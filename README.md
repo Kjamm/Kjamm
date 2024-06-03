@@ -28,11 +28,8 @@ and I'm always willing to learn.<br>
 <br>
 
 
-
-
-
 ## Contact<br>
-Email : jaemin@o.cnu.ac.kr
+<a href="mailto:jaemin@o.cnu.ac.kr"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wonjongah@gmail.com"/></a>
 
 	
 
