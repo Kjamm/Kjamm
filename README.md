@@ -4,7 +4,7 @@
 ![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
 # Hello!🖐 I'm Jae-min KIM <br> <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kjamm&theme=radical&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=8"/><br>
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjamm&langs_count=10&layout=compact&theme=dark)](https://github.com/Kjamm/Kjamm)﻿<br>
 
 a 22-year-old college student<br> 
 	
