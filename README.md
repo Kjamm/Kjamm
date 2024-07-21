@@ -1,7 +1,8 @@
 
 <div align="center">
 
-![우주](https://user-images.githubusercontent.com/50413112/105368338-c5250000-5c44-11eb-9a01-5a8c95186bba.jpg)
+![image](https://github.com/user-attachments/assets/3a08aeae-37df-4714-8825-d0dfb652f40e)
+
 # Hello!🖐 I'm Jae-min KIM <br> <br>
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjamm&langs_count=10&layout=compact&theme=dark)](https://github.com/Kjamm/Kjamm)﻿<br>
