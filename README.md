@@ -3,9 +3,11 @@
 
 ![image](https://github.com/user-attachments/assets/3a08aeae-37df-4714-8825-d0dfb652f40e)
 
-# Hello!🖐 I'm Jae-min KIM <br> <br>
+# Hello!🖐 I'm Jae-min KIM <br>
 
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjamm&langs_count=10&layout=compact&theme=dark)](https://github.com/Kjamm/Kjamm)﻿<br>
+
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kjamm&theme=react-dark&bg_color=20232a&hide_border=true&line=8A87D0&color=918FE0" width=98%/> <br>
 
 a 22-year-old college student<br> 
 	
