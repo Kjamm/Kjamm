@@ -1,11 +1,9 @@
 
 <div align="center">
 
-![image](https://github.com/user-attachments/assets/3a08aeae-37df-4714-8825-d0dfb652f40e)
+![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
 
 # Hello!🖐 I'm Jae-min KIM <br>
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
 
 a 22-year-old college student<br> 
 	
