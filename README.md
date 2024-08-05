@@ -5,8 +5,6 @@
 
 # Hello!🖐 I'm Jae-min KIM <br>
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kjamm&langs_count=10&layout=compact&theme=dark)](https://github.com/Kjamm/Kjamm)﻿<br>
-
 ![](./profile-3d-contrib/profile-night-rainbow.svg)<br>
 
 a 22-year-old college student<br> 
