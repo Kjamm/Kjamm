@@ -13,7 +13,7 @@ Currently, I'm focusing on studying Deep Learning,<br>
 	
 and I'm always willing to learn.<br>
 
-Here is my [RESUME](https://github.com/Kjamm/RESUME) !! <br>
+Here is my [RESUME](https://github.com/Kjamm/RESUME). <br>
 
 ## Tech Stack
 
