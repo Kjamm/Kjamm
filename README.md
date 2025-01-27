@@ -5,7 +5,7 @@
 
 # Hello!🖐 I'm Jae-min KIM <br>
 
-a 22-year-old college student<br> 
+a 23-year-old college student<br> 
 	
 who dreams of becoming a AI engineer.<br> 
 	
