@@ -7,6 +7,4 @@
   <img alt="Jaemin KIM Profile Banner" src="https://raw.githubusercontent.com/Kjamm/Kjamm/main/dark.svg" width="100%">
 </picture>
 
-# Hello!🖐 I'm Jae-min KIM <br>
-
-### You can check my portfolio and blog on this [site](https://kjamm.github.io/Blog/).
+### 🌐 Feel free to check out my [portfolio and blog](https://kjamm.github.io/Blog/) !
