@@ -1,7 +1,11 @@
 
 <div align="center">
 
-![Kjamm-space-shooter](https://github.com/user-attachments/assets/e678f3ee-47c1-4570-8967-527dd13f4afc)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kjamm/Kjamm/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kjamm/Kjamm/main/light.svg">
+  <img alt="Jaemin KIM Profile Banner" src="https://raw.githubusercontent.com/Kjamm/Kjamm/main/dark.svg" width="100%">
+</picture>
 
 # Hello!🖐 I'm Jae-min KIM <br>
 
